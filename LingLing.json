@@ -4,7 +4,7 @@
       "name": "CALL OF DUTY GARENA",
       "status": "ONLINE",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
-      "logo": "https://github.com/palebarriosui-source/narda/blob/main/icon.png",
+      "logo": "https://raw.githubusercontent.com/palebarriosui-source/narda/refs/heads/main/icon.png",
       "libs": [
         {
           "name": "CAPHEX FREE DELUXE",
