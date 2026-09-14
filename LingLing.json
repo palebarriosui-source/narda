@@ -10,6 +10,11 @@
           "name": "CAPHEX FREE DELUXE",
           "lib_name": "libCaphexFREE.so",
           "download_url": "https://github.com/palebarriosui-source/narda/raw/refs/heads/main/libCaphexFREE.so"
+        },
+        {
+          "name": "CAPHEX PAID DELUXE",
+          "lib_name": "libCaphexCont.so",
+          "download_url": "https://github.com/palebarriosui-source/narda/raw/refs/heads/main/libCaphexCont.so"
         }
       ]
     }
