@@ -1,7 +1,7 @@
 {
   "systems": [
     {      
-      "name": "CALL OF DUTY GARENA",
+      "name": "CALL OF DUTY",
       "status": "ONLINE",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
       "logo": "https://raw.githubusercontent.com/palebarriosui-source/narda/refs/heads/main/icon.png",
