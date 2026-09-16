@@ -7,9 +7,14 @@
       "logo": "https://raw.githubusercontent.com/palebarriosui-source/narda/refs/heads/main/icon.png",
       "libs": [
         {
-          "name": "CAPHEX FREE DELUXE",
+          "name": "CAPHEX FREE DELUXE / NO SKINS",
           "lib_name": "libCaphexFREE.so",
           "download_url": "https://github.com/palebarriosui-source/narda/raw/refs/heads/main/libCaphexFREE.so"
+        },
+        {
+          "name": "CAPHEX FREE DELUXE / WITH SKINS",
+          "lib_name": "libZeddy.so",
+          "download_url": "https://github.com/palebarriosui-source/narda/raw/refs/heads/main/libZeddy.so"
         }
       ]
     }
